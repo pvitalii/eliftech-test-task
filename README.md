@@ -1,4 +1,4 @@
-To run deployed project: http://192.168.50.234:3000
+To run deployed project: https://eliftech-test-task-iota.vercel.app
 
 To run locally:
 1. git clone https://github.com/pvitalii/eliftech-test-task
