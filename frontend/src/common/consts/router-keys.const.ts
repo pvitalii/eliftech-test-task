@@ -1,5 +1,5 @@
 export const ROUTER_KEYS = {
-  SHOP: '/shop',
+  SHOP: '/',
   CART: '/cart',
   HISTORY: '/order-history'
 };
